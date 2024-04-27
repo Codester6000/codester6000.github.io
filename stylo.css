@@ -10,7 +10,7 @@ body {
     margin-top: 0px;
     margin-bottom: 0px;
     background-color: black;
-    color: greenyellow;
+    color: turquoise;
     
 }
 
@@ -20,4 +20,24 @@ body {
 }
 .barralateral button {
     display: block;
+    width: 100%;
+    padding: 47px;
+    border-radius: 200px;
+    background-color: turquoise;
+    cursor: pointer;
+    
 }
+.barralateral a {
+    text-decoration: none;
+    background-color: blue;
+    width: 100%;
+
+}
+
+ .barralateral a:hover {
+    text-decoration:underline;
+ }
+
+ .barralateral button {
+    color:black ;
+ }
