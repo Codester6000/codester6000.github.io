@@ -15,5 +15,9 @@ body {
 }
 
 .barralateral {
+    float: left;
 
+}
+.barralateral button {
+    display: block;
 }
