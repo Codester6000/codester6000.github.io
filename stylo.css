@@ -19,6 +19,8 @@ html{
 
 .barralateral {
     float: left;
+    color: turquoise;
+    
 
 }
 .barralateral button {
@@ -26,24 +28,29 @@ html{
     width: 100%;
     padding: 47px;
     border-radius: 200px;
-    background-color: turquoise;
-    cursor: pointer;
+    background-color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: turquoise;
+    
+    
+    
     
 }
 .barralateral a {
     text-decoration: none;
-    background-color: blue;
-    width: 100%;
+    
 
 }
 
- .barralateral a:hover {
-    text-decoration:underline;
+ .barralateral button:hover {
+    text-decoration: underline;
+    width: 200%;
+    color: #0000ff;
+
  }
 
- .barralateral button {
-    color:black ;
- }
+
 
  .imagen {
    
