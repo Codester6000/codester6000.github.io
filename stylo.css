@@ -1,11 +1,15 @@
 body {
-margin: 0;
-padding: 0;
-text-align: center;
-background-image: url(imagen/snippet-codigo-wordpress.jpg);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url(imagen/snippet-codigo-wordpress.jpg);
 }
 
 .header {
-background-color: black;
-color: greenyellow;
+    background-color: black;
+    color: greenyellow;
+}
+
+.barralateral {
+
 }
