@@ -50,8 +50,15 @@ html{
 
  }
 
-
-
- .imagen {
-   
+ img {
+    border-radius: 50%;
  }
+
+ .text {
+    text-align: center;
+    color: white;
+ }
+
+.text {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
