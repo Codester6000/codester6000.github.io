@@ -64,7 +64,7 @@ html{
     text-align: center;
     color: rgb(193, 208, 236);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: large;
+    font-size: 140%;
     
  }
 
@@ -74,6 +74,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 .datos{
     color: turquoise;
+    font-size: 140%;
 
 }
 
