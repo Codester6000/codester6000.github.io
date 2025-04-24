@@ -72,7 +72,7 @@ html{
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.datos{
+.datos_li,.dato_ol{
     color: turquoise;
     font-size: 140%;
 
