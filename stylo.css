@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url(imagen/towerofgod_avatarbackground_02_background.png);
+}
+html{
+    scroll-behavior: smooth;
+
+}
+.header {
+    background-image: url(imagen/snippet-codigo-wordpress.jpg);
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: black;
+    color: turquoise;
+    
+}
+
+.barralateral {
+    float: left;
+    color: turquoise;
+    
+    
+}
+.barralateral button {
+    background-image: url(imagen/binary-matrix-code-6500x3520-22626.jpg);
+    display: block;
+    width: 100%;
+    padding: 47px;
+    border-radius: 200px;
+    background-color:transparent;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: turquoise;
+    
+    
+    
+    
+}
+.barralateral a {
+    text-decoration: none;
+    
+
+}
+
+ .barralateral button:hover {
+    animation-duration: 2000ms;
+    text-decoration: underline;
+    width: 200%;
+    color:rgb(52, 57, 99);
+    background-color: white;
+   
+
+ }
+
+ img {
+    border-radius: 50%;
+    filter: drop-shadow(15px 15px 15px rgba(0, 255, 255));
+ }
+
+ .text {
+    text-align: center;
+    color: rgb(193, 208, 236);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 140%;
+    
+ }
+
+.text {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.datos{
+    color: turquoise;
+    font-size: 140%;
+
+}
+
+p{
+    background-image: url(imagen/snippet-codigo-wordpress.jpg);
+    background-color: black;
+    color: turquoise;
+}
