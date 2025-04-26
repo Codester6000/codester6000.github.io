@@ -83,3 +83,15 @@ p{
     background-color: black;
     color: turquoise;
 }
+.tabla{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.tabla, .tabla h2{
+    color:#fff
+}
+table, td, tr{
+    border:1px solid #fff;
+}
